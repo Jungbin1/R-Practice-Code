@@ -1,3 +1,3 @@
 # R-Practice-Code
 
-Code for personal usage
+Code for personal practice
